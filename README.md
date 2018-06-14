@@ -1,12 +1,8 @@
 # LI-FI-Arduino
 
-## Please check the paper vlc_paper.pdf
-<object data="vlc_paper.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="vlc_paper.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="vlc_paper.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-### If you have any question please send email to quramon@gmail.com, Thanks
+
+
+> This repo is not orginized well, it mainly is an archive of the project I have completed.
 
 Wireless communications, such as Wi-Fi and Bluetooth, are commonly used in the daily life. However, while more and more wireless devices occupy the available frequencies, the frequency spectrum is reaching a maximum capacity.
 
@@ -33,3 +29,10 @@ Arduino code for Light Emitter side
 
 - tr/transmitter1
 Arduino code for Light Emitter side testing
+
+## Please check the paper vlc_paper.pdf
+<object data="vlc_paper.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="vlc_paper.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="vlc_paper.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
